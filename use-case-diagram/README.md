@@ -1,1 +1,1 @@
-
+Use Case Diagram for visualizing the interactions between users and the system, let's break down the key functionalities (like user registration, property booking, and payments) and then outline the actors and their interactions with the system.
